@@ -2,6 +2,7 @@
 My overthewire bandit notes and learning progress using kali Linux
 
 ** Spoiler warning **
+
 I've written notes to help track my learning progress, but i avoid posting exact answers and passwords to respect the game's rules and other player's experience.
 If you are playing bandit too try solving it on your own first, this repo focuses on concepts and skills learned through it and not the actual answers.
 These are my personal notes from playing the [Bandit](https://overthewire.org/wargames/bandit/) wargame on OverTheWire.  
@@ -22,18 +23,21 @@ Let's start our journey.
 level 0 -> level 1
 
 What i've learned:
+
 -how to use ssh to connect to a remote server
 -how to find and read a file using cat command
 
 Level 1 -> Level 2
 
 What i've learned:
+
 -how to list hidden files using "ls -a"
 -how to locate hidden files and file naming conventions
 
 Level 2 -> Level 3
 
 What i've learned:
+
 -How to handle files with tricky names like '-'
 -how to open files with tricky names using "cat ./" or "cat --"
 -Learned more about how command-line argument works.
@@ -41,6 +45,7 @@ What i've learned:
 Level 3 -> Level 4
 
 What i've learned:
+
 -How to identify which files are human-readable using "file"
 -I understood Linux file types
 -More practice navigating directories.
