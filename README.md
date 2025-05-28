@@ -1,5 +1,6 @@
 # bandit-walkthrough
 My overthewire bandit notes and learning progress using kali Linux
+
 ** Spoiler warning **
 I've written notes to help track my learning progress, but i avoid posting exact answers and passwords to respect the game's rules and other player's experience.
 If you are playing bandit too try solving it on your own first, this repo focuses on concepts and skills learned through it and not the actual answers.
