@@ -12,4 +12,4 @@ WHAT I'VE LEARNED:
 
 -There are other ways but since we are beginners this is the best. As we solve more of this levels we may be able to create those tough scripts.
 
-
+For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
