@@ -8,3 +8,5 @@ WHAT I'VE LEARNED;
 
 -If you want to open a file which has space between its characters then it might get tricky. So, to open it use double quotes "" or single quotes '' or backslash between its each characters to open, create or delete that file. Single quotes ignore any special characters. Double quotes ignores all except $, back quotes and baclslashes.
 
+For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
+
