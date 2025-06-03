@@ -18,4 +18,6 @@ The password for the next level is stored in a file called - located in the home
 
 - This level has taught me the importance of quoting or prefixing tricky filenames.
 
-- 
+For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
+
+
