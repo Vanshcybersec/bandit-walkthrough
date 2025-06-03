@@ -16,5 +16,7 @@ WHAT I'VE LEARNED:
 
 -touch is used for creating an empty file. The '.' is used to make the file hidden. 
 
+For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
+
 -you can use echo to add content in a hidden file. 
 
