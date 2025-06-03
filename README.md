@@ -20,41 +20,6 @@ If any of you wants to help me in this i will welcome you with open arms.
 
 Let's start our journey.
 
-level 0 -> level 1
-
-What i've learned:
-
--how to use ssh to connect to a remote server
-
--how to find and read a file using cat command
-
-Level 1 -> Level 2
-
-What i've learned:
-
--how to list hidden files using "ls -a"
-
--how to locate hidden files and file naming conventions
-
-Level 2 -> Level 3
-
-What i've learned:
-
--How to handle files with tricky names like '-'
-
--how to open files with tricky names using "cat ./" or "cat --"
-
--Learned more about how command-line argument works.
-
-Level 3 -> Level 4
-
-What i've learned:
-
--How to identify which files are human-readable using "file"
-
--I understood Linux file types
--More practice navigating directories.
-
-I'll keep updating this repo as i complete more levels. :)
 
 
+LEVEL0 -> LEVEL1 | [level0.md](level0.md) | 
