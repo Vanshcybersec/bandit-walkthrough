@@ -27,5 +27,7 @@ What I've learned:
 - gzip or GNU zip is used to compress or decompress .gz files
   
 - bzip or Burrows-Wheeler zip 2 (ses BWT or huffman coding) also compresses or decompresses the files.
+
+  For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
   
   
