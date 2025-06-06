@@ -14,4 +14,6 @@ WHAT I'VE LEARNED:
   
 - Learned the value of combining multiple tools using pipes (`|`) to narrow down useful data from noisy output.
 
+  For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
+
   
