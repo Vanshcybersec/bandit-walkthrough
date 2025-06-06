@@ -14,5 +14,7 @@ WHAT I'VE LEARNED:
   
 - Learned how to pipe output (`|`) to make Linux commands more powerful and efficient.
 
+  For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
+
   
 
