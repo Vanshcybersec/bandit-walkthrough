@@ -10,4 +10,4 @@ WHAT I'VE LEARNED:
 
 -`base64 -d` decodes the message.
 
--I also learned how to convert ASCII text to base64 through
+-I also learned how to convert ASCII text to base64 from [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64).
