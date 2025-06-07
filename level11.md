@@ -11,3 +11,5 @@ WHAT I'VE LEARNED:
 -`base64 -d` decodes the message.
 
 -I also learned how to convert ASCII text to base64 from [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64).
+
+For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
