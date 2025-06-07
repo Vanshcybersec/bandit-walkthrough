@@ -14,5 +14,6 @@ WHAT I'VE LEARNED:
 
 -I learned how we can use the effects of `ROT13` using `tr` command.
 
+For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
 
 
