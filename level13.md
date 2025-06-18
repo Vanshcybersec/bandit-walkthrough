@@ -18,3 +18,5 @@ WHAT I'VE LEARNED:
  -If the file is compressed in POSIX tar archive format, then, firstly, we have to make sure that it's name consists `.tar` at the end which is useful for the `tar` command. Now, after doing that we need to use the `tar` command with `-xvf`(`-x` means extract or pull files out the archive, `-v` means verbose meaning it shows you the output of the command in a more detailed way, `-f` command tells `tar` command what file to extract) on the file with `.tar` at the end to decompress it.
 
  - the command `&&` can be used between these commands. It is used in such a way that if the first command is executed porperly then only the second command will run.
+
+   For more understanding of these commands you can use "command --help" in the terminal which will show how to use a command deeply and efficiently.
